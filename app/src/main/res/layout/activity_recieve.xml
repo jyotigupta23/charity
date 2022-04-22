@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".RecieveActivity"
+    android:orientation="vertical"
+    android:background="@drawable/foodrecive">
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="299dp"
+        android:layout_height="616dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="112dp"
+        android:layout_marginRight="112dp"
+        android:layout_marginBottom="1dp"
+        android:textSize="30sp"
+        android:theme="@style/TextAppearance.AppCompat.Large" />
+</RelativeLayout>

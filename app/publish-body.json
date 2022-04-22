@@ -1,0 +1,9 @@
+{
+  "interests": ["hello"],
+  "fcm": {
+    "notification": {
+      "title": "ITEMS ADDED",
+      "body": "Check out! new items are being added for donation"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">charity</string>
+    <string name="your_name">your_name</string>
+    <string name="contact_number">Contact_number</string>
+    <string name="food_quantity">food_Quantity</string>
+    <string name="food_name">food_name</string>
+    <string name="donate">Donate</string>
+</resources>
